@@ -1,5 +1,20 @@
 # WMS_3Dmarkers
-v0.1_2022JUN07
+v0.1_2022JUN07<br/>
+the group remoteExec is untested, yet<br/>
+
+## What does it do?
+You can display on your screen 3D markers, 2 only visible by you and 1 shared with your group, so 3 in total (for now)<br/>
+You can modify the default colors and sizes in CBA Addon Settings/WMS<br/>
+You can remove a marker by trying to place a new one in the sky<br/>
+
+## Default keys
+ctrl+1 personal 3D marker 1 (aiming)<br/>
+ctrl+shift+1 personal 3D marker 1 (on the map)<br/>
+ctrl+2 personal 3D marker 2 (aiming)<br/>
+ctrl+shift+2 personal 3D marker 2 (on the map)<br/>
+ctrl+3 Group 3D marker (aiming)<br/>
+ctrl+shift+3  Group 3D marker (on the map)<br/>
+You can modify the Keybinding in Options/Controls/Addon Options/WMS<br/>
 
 ## License
 
