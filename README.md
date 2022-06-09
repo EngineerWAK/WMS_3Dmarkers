@@ -10,8 +10,8 @@ You can remove a marker by trying to place a new one in the sky<br/>
 ## Default keys
 ctrl+1 personal 3D marker 1 (aiming)<br/>
 ctrl+shift+1 personal 3D marker 1 (on the map)<br/>
-ctrl+2 vehivcle crew 3D marker (aiming)<br/>
-ctrl+shift+2 vehivcle crew 3D marker (on the map)<br/>
+ctrl+2 vehicle crew 3D marker (aiming)<br/>
+ctrl+shift+2 vehicle crew 3D marker (on the map)<br/>
 ctrl+3 Group 3D marker (aiming)<br/>
 ctrl+shift+3  Group 3D marker (on the map)<br/>
 You can modify the Keybinding in Options/Controls/Addon Options/WMS<br/>
