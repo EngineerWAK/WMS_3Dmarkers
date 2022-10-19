@@ -1,6 +1,8 @@
 # WMS_3Dmarkers
+the crew remoteExec is untested, yet<br/>
+the group remoteExec works (2022OCT19)<br/>
+
 v0.1_2022JUN07<br/>
-the group remoteExec is untested, yet<br/>
 
 ## What does it do?
 You can display on your screen 3D markers, 1 only visible by you, 1 for your vehicle crew and 1 shared with your group, so 3 in total (for now)<br/>
